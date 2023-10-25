@@ -6,11 +6,21 @@
     margin-top: 40vh;
 }
 
+input{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 10px;
+    padding: 20px;
+}
+
 button{
     width: 40px;
     height: 40px;
     color: black;
     background-color: #B2C8BA;
+    border-radius: 100px;
+    text-align: center;
+    margin: 2px;
 }
 
 body{
