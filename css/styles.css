@@ -1,16 +1,18 @@
-*,
-*::after,
-*::before{
-    margin: 0;
-    padding: 0;
-}
+
 
 .container{
     display: grid;
-    justify-content: center;
+    text-align: center;
+    margin-top: 40vh;
 }
 
 button{
     width: 40px;
     height: 40px;
+    color: black;
+    background-color: #B2C8BA;
+}
+
+body{
+    background-color: #86A789;
 }
